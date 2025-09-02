@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Data Deletion Request</title>
+</head>
+<body>
+  <h1>Data Deletion Request</h1>
+  <p>To request deletion of your data:</p>
+  <ol>
+    <li>Disconnect the Facebook account inside the automation app (this revokes the token).</li>
+    <li>Email <a href="mailto:delete@example.com">delete@example.com</a> with subject “Delete My Data” and include your Facebook User ID.</li>
+  </ol>
+  <p>We will delete all stored data within 30 days of receiving the request.</p>
+</body>
+</html>
